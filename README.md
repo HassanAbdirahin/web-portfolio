@@ -25,6 +25,4 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Let your portfolio shine with React-TS-Tailwind-Portfolio. Start showcasing your work with style and efficiency!
+MIT
