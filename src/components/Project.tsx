@@ -1,4 +1,3 @@
-import { FC } from "react";
 import { FaGithub } from "react-icons/fa";
 
 type ProjectProps = {
