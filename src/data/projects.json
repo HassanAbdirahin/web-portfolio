@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Movie and Tv Show App",
+    "description": "Meet Flixxmo, a sleek web app I developed that brings the world of movies and TV shows right to your fingertips! As a frontend developer, I crafted Flixxmo to seamlessly fetch data from an API, ensuring users have access to the latest entertainment at their convenience. With Flixxmo, discovering your next favorite watch has never been easier.",
+    "year": 2023,
+    "img": "https://port-image.netlify.app/flixx.png",
+    "role": "Frontend Developer",
+    "url": "https://flixxmo.netlify.app",
+    "github": "https://github.com/HassanAbdirahin/Flixx-app"
+  },
+  {
+    "id": 2,
+    "title": "Business Website",
+    "description": "Introducing the Hilaal website, a dynamic online platform designed to elevate the digital presence of this innovative company. As a frontend developer, I meticulously crafted the Hilaal website to reflect the company's values and showcase its products/services in a visually captivating manner. From intuitive navigation to engaging content, every element of the Hilaal website is tailored to enhance user experience and leave a lasting impression. Explore Hilaal's world through this meticulously crafted digital gateway!",
+    "year": 2022,
+    "img": "https://port-image.netlify.app/hilaal.png",
+    "role": "Frontend Developer",
+    "url": "https://hilaal.netlify.app",
+    "github": "https://github.com/"
+  },
+  {
+    "id": 3,
+    "title": "Instutition Website",
+    "description": "Introducing the Alpha Academy website – a sleek and user-friendly platform I developed to showcase the institution's offerings. With seamless navigation and engaging content, it's the perfect gateway to explore courses, connect with instructors, and stay updated on events. Dive into education with Alpha Academy today!",
+    "year": 2021,
+    "img": "https://port-image.netlify.app/alpha.png",
+    "role": "Frontend Developer",
+    "url": "https://alpha-academy.netlify.app",
+    "github": "https://github.com/"
+  }
+]
