@@ -1,12 +1,11 @@
-import { FC } from "react";
 import { MdEmail } from "react-icons/md";
 import heroImg from "../assets/hero-img.jpg";
 import { FaGithub } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
-const Hero: FC = () => {
+const Hero = () => {
   return (
-    <div className="flex flex-col-reverse flex-col md:flex-row items-center justify-center gap-10 py-5">
+    <div className="flex flex-col-reverse md:flex-row items-center justify-center gap-10 py-5">
       <div className="md:w-[50%] flex flex-col gap-5 items-center text-center md:text-start md:items-start">
         <h1 className="bebas text-6xl md:text-8xl">
           HI, I AM <br /> HASSAN ABDIRAHIM

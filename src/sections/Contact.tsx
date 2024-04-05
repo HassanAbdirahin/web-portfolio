@@ -1,8 +1,7 @@
-import React, { useState } from "react";
 import { FaGithub } from "react-icons/fa";
 import { FaSquareInstagram, FaSquareXTwitter } from "react-icons/fa6";
 
-const Contact: React.FC = () => {
+const Contact = () => {
   const onSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const formData = new FormData(event.currentTarget);
