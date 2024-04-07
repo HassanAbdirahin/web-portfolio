@@ -26,7 +26,7 @@ const Contact = () => {
 
   return (
     <div
-      className="flex col md:flex-row items-start justify-around gap-10"
+      className="flex-col md:flex-row items-start justify-around gap-10"
       id="contact"
     >
       <div className="flex flex-col items-center md:items-start gap-20">
